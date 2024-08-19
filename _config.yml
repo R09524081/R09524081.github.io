@@ -22,17 +22,17 @@ repository               : "R09524081/r09524081.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wei-Ting (Jonathan) Tang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I'm a 3rd year PhD Student at tOSU"
+  #location         : "Earth"
+  employer         : "The Ohio State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tang.1856@osu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=wFWQsNQAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
