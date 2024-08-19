@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wei-Ting's Homepage"
+title                    : "Wei-Ting"
 title_separator          : "-"
 name                     : &name "Wei-Ting (Jonathan) Tang"
 description              : &description "personal description"
