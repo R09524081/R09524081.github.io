@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year PhD Student at The Ohio State University. 
+I'm a 3rd year PhD Student in Chemical Engineering at The Ohio State University advised by [Dr. Joel Paulson](https://cbe.osu.edu/people/paulson.82). My research interest lies in Bayesian Optimization, deterministic global optimization (spatial B&B algorithm), and Process System Engineering.
+
+
+I received my BS and MS in Chemical Engineering at National Taiwan University, where I was advised by [Dr. Jeffrey Ward] (https://che.ntu.edu.tw/che/en/jeffward.html).
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, #teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Education
