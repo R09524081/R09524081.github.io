@@ -12,12 +12,6 @@ I'm a 3rd year PhD Student in Chemical Engineering at The Ohio State University 
 
 I received my BS and MS in Chemical Engineering at National Taiwan University, where I was advised by [Dr. Jeffrey Ward](https://che.ntu.edu.tw/che/en/jeffward.html). Click here for my CV.
 
-Education
-======
-🎓 PhD in Chemical Engineering | The Ohio State University (2022-) <br>
-🎓 MS in Chemical Engineering | National Taiwan University (2020-2022) <br>
-🎓 BS in Chemical Engineering | National Taiwan University (2016-2020) <br>
-
 Bulletin
 ======
 - Our paper [Integrated Design, Control, and Techno-Ecological Synergy: Application to a Chloralkali Process](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2407/LAPSE-2024.1551-1v1.pdf) was accepted at the 2024 FOCAPD conference. <br>
