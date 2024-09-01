@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about a newly proposed Bayesian novelty search algorithm.'
-date: 2010-10-01
+date: 2024-06-01
 venue: 'preprint'
 slidesurl: 'https://arxiv.org/pdf/2406.03616'
 paperurl: 'https://arxiv.org/pdf/2406.03616'
