@@ -18,16 +18,7 @@ toc_sticky: true
      </div>         
      <div>         
        <em>, 2024</em> 
- <br> 
- 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2406.03616">PDF</a>         
-          
-       <a class="btn btn--warning btn--small" href="">Code</a>         
-         
-     </div>         
-   </div>         
- </div> 
- <br>
+
 
 
 
