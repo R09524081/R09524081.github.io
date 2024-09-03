@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year PhD Student in Chemical Engineering at The Ohio State University advised by [Dr. Joel Paulson](https://cbe.osu.edu/people/paulson.82). My research interest lies in Bayesian Optimization, Gaussian processes, decision-making under uncertainty, deterministic global optimization (spatial B&B algorithm), and Process System Engineering.
-
+I'm a 3rd year PhD Student in Chemical Engineering at The Ohio State University advised by [Dr. Joel Paulson](https://cbe.osu.edu/people/paulson.82). My research interest lies in Bayesian Optimization, Gaussian processes, decision-making under uncertainty, deterministic global optimization, and Process System Engineering.
 
 I received my BS and MS in Chemical Engineering at National Taiwan University, where I was advised by [Dr. Jeffrey Ward](https://che.ntu.edu.tw/che/en/jeffward.html). 
 
