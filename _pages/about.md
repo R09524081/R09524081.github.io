@@ -14,6 +14,7 @@ I received my BS and MS in Chemical Engineering at National Taiwan University, w
 
 Bulletin
 ======
-- Our paper [Integrated Design, Control, and Techno-Ecological Synergy: Application to a Chloralkali Process](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2407/LAPSE-2024.1551-1v1.pdf) was accepted at the 2024 FOCAPD conference. <br>
-- Our paper [CAGES: Cost-Aware Gradient Entropy Search for Efficient Local Multi-Fidelity Bayesian Optimization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wFWQsNQAAAAJ&sortby=pubdate&citation_for_view=wFWQsNQAAAAJ:zYLM7Y9cAGgC) was accepted at the 2024 IEEE Conference on Decision and Control.
+- Out paper [Combinatorial energy intensification of a ternary distillation process](https://www.sciencedirect.com/science/article/pii/S0255270124002903) has been accepted to the Chemical Engineering and Processing - Process Intensification.
+- Our paper [Integrated Design, Control, and Techno-Ecological Synergy: Application to a Chloralkali Process](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2407/LAPSE-2024.1551-1v1.pdf) has been accepted to the 2024 FOCAPD conference. <br>
+- Our paper [CAGES: Cost-Aware Gradient Entropy Search for Efficient Local Multi-Fidelity Bayesian Optimization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wFWQsNQAAAAJ&sortby=pubdate&citation_for_view=wFWQsNQAAAAJ:zYLM7Y9cAGgC) has been accepted to the 2024 IEEE Conference on Decision and Control.
 
