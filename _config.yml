@@ -21,7 +21,7 @@ repository               : "R09524081/R09524081.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "main_image.png"
+  avatar           : "main_image.jpg"
   name             : "Wei-Ting (Jonathan) Tang"
   pronouns         : # example: "she/her"  
   bio              : "I'm a 3rd year PhD Student at tOSU"
