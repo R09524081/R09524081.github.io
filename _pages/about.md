@@ -14,7 +14,7 @@ I received my BS and MS in Chemical Engineering at National Taiwan University, w
 
 Bulletin
 ======
-- Our work [Scalable Global Optimization of Gaussian Processes Using a Specialized Branch-and-Bound Algorithm](https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/689273) has been selected to be presented at the AIChE CAST Division Planery session.
+- Our work [Scalable Global Optimization of Gaussian Processes Using a Specialized Branch-and-Bound Algorithm](https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/689273) has been selected to be presented at the CAST Division Planery session at the 2024 AIChE annual meeting.
 - Our preprint [BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems](https://arxiv.org/pdf/2406.03616) is now available on arxiv.
 - Our paper [Combinatorial energy intensification of a ternary distillation process](https://www.sciencedirect.com/science/article/pii/S0255270124002903) has been accepted to the _Chemical Engineering and Processing - Process Intensification._
 - Our paper [Integrated Design, Control, and Techno-Ecological Synergy: Application to a Chloralkali Process](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2407/LAPSE-2024.1551-1v1.pdf) has been accepted to the _2024 FOCAPD conference._ <br>
