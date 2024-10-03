@@ -13,7 +13,7 @@ I received my BS and MS in Chemical Engineering at National Taiwan University, w
 
 Bulletin
 ======
-- Our poster [BEACON-A Bayesian Novelty Search Algorithm for Efficient Material Property Exploration](files/2024GRS_Jonathan_final.pdf) has been awarded as the 1st place poster presentation at the 13th Graduate Research Symposium at the Ohio State University CBE department.
+- Our poster [BEACON-A Bayesian Novelty Search Algorithm for Efficient Material Property Exploration](https://github.com/R09524081/R09524081.github.io/blob/d58778fc0664493c79b1689e4bdd4b30626a1ba4/files/2024GRS_Jonathan_final.pdf) has been awarded as the 1st place poster presentation at the 13th Graduate Research Symposium at the Ohio State University CBE department.
 - Our paper [Assessing Building Control Performance Using Physics-Based Simulation Models and Deep Generative Networks](https://ieeexplore.ieee.org/abstract/document/10666585) has been published at the 2024 IEEE Conference on Control Technology and Applications (CCTA).
 - Our work [Scalable Global Optimization of Gaussian Processes Using a Specialized Branch-and-Bound Algorithm](https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/689273) has been selected to present at the CAST Division Planery session at the 2024 AIChE annual meeting.
 - Our preprint [BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems](https://arxiv.org/pdf/2406.03616) is now available on arxiv.
