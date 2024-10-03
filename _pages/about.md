@@ -13,6 +13,7 @@ I received my BS and MS in Chemical Engineering at National Taiwan University, w
 
 Bulletin
 ======
+- Our poster BEACON-A Bayesian Novelty Search Algorithm for Efficient Material Property Exploration has been awarded as the 1st place poster presentation at the 13th Graduate Research Symposium at the Ohio State University CBE department.
 - Our work [Scalable Global Optimization of Gaussian Processes Using a Specialized Branch-and-Bound Algorithm](https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/689273) has been selected to present at the CAST Division Planery session at the 2024 AIChE annual meeting.
 - Our preprint [BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems](https://arxiv.org/pdf/2406.03616) is now available on arxiv.
 - Our paper [Combinatorial energy intensification of a ternary distillation process](https://www.sciencedirect.com/science/article/pii/S0255270124002903) has been accepted to the _Chemical Engineering and Processing - Process Intensification._
