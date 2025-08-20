@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year PhD Student in Chemical Engineering at The Ohio State University advised by [Dr. Joel Paulson](https://cbe.osu.edu/people/paulson.82). My research interest lies in Bayesian Optimization, Gaussian processes, decision-making under uncertainty, deterministic global optimization, and Process System Engineering.
+I'm a 4th year PhD Candidate in Chemical Engineering at University of Wisconsin-Madison advised by [Dr. Joel Paulson](https://cbe.osu.edu/people/paulson.82). My research interest lies in Bayesian Optimization, Gaussian processes, decision-making under uncertainty, deterministic global optimization, and Process System Engineering.
 
 I received my BS and MS in Chemical Engineering at National Taiwan University, where I was advised by [Dr. Jeffrey Ward](https://che.ntu.edu.tw/che/en/jeffward.html). 
 
 Bulletin
 ======
+- Our paper [AI-Driven Scenario Discovery: Diffusion Models and Multi-Armed Bandits for Building Control Validation](https://www.sciencedirect.com/science/article/pii/S0378778825009375) has been published at the Energy and Buildings journal.
+- Wei-Ting has started a new position as a 2025 ADISE research intern in the Machine Learning, Optimization, and Statistics (MiLOS) team at the Dow Chemical Company.
 - Our paper [TR-BEACON: Shedding Light on Efficient Behavior Discovery in High-Dimensional Spaces with Bayesian Novelty Search over Trust Regions](https://openreview.net/pdf?id=9Xo6ONB8E3) has been published at the NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty.
 - Our poster [BEACON-A Bayesian Novelty Search Algorithm for Efficient Material Property Exploration](https://github.com/R09524081/R09524081.github.io/blob/d58778fc0664493c79b1689e4bdd4b30626a1ba4/files/2024GRS_Jonathan_final.pdf) has been awarded as the 1st place poster presentation at the 13th Graduate Research Symposium at the Ohio State University CBE department.
 - Our paper [Assessing Building Control Performance Using Physics-Based Simulation Models and Deep Generative Networks](https://ieeexplore.ieee.org/abstract/document/10666585) has been published at the 2024 IEEE Conference on Control Technology and Applications (CCTA).
