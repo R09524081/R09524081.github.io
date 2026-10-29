@@ -1,26 +1,45 @@
 main:
 
+  - title: "Isotropic Gaussian Processes Improve Vanilla Bayesian Optimization in High Dimensions"
+    authors: <strong>Wei-Ting Tang</strong>, M. Muthyala, Joel A. Paulson
+    conference_short: arXiv
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/abs/2610.05780
+
   - title: "BEACON: a Bayesian optimization inspired strategy for efficient novelty search"
     authors: <strong>Wei-Ting Tang</strong>, Ankush Chakrabarty, Joel A. Paulson
     conference_short: DD
     conference: <strong>Digital Discovery</strong>, 2026.
-    pdf: https://pubs.rsc.org/en/content/articlelanding/2026/dd/d6dd00123h
+    pdf: https://doi.org/10.1039/D6DD00123H
     image: ./assets/img/BEACON.jpg
-
-  - title: "NeST-BO: Fast Local Bayesian Optimization via Newton-Step Targeting of Gradient and Hessian Information"
-    authors: <strong>Wei-Ting Tang</strong>, Akshay Kudva, Joel A. Paulson
-    conference_short: AISTATS
-    conference: International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
-    pdf: https://openreview.net/forum?id=1MHLQM0MKM
-
-  - title: "An Efficient Spatial Branch-and-Bound Algorithm for Global Optimization of Gaussian Process Posterior Mean Functions"
-    authors: <strong>Wei-Ting Tang</strong>, Akshay Kudva, Calvin Tsay, Joel A. Paulson
-    conference_short: arXiv
-    conference: arXiv preprint, 2026.
-    pdf: https://arxiv.org/pdf/2605.00855
 
   - title: "Rethinking Trust Region Bayesian Optimization in High Dimensions"
     authors: <strong>Wei-Ting Tang</strong>, Joel A. Paulson
     conference_short: OPTIMAL
     conference: AISTATS 2026 Workshop <strong>(OPTIMAL)</strong>, 2026.
-    pdf: https://arxiv.org/pdf/2604.22967
+    pdf: https://arxiv.org/abs/2604.22967
+
+  - title: "An Efficient Spatial Branch-and-Bound Algorithm for Global Optimization of Gaussian Process Posterior Mean Functions"
+    authors: <strong>Wei-Ting Tang</strong>, Akshay Kudva, Calvin Tsay, Joel A. Paulson
+    conference_short: arXiv
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/abs/2605.00855
+
+  - title: "NeST-BO: Fast Local Bayesian Optimization via Newton-Step Targeting of Gradient and Hessian Information"
+    authors: <strong>Wei-Ting Tang</strong>, Akshay Kudva, Joel A. Paulson
+    conference_short: AISTATS
+    conference: International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2510.05516
+
+  - title: "AI-Driven Scenario Discovery: Diffusion Models and Multi-Armed Bandits for Building Control Validation"
+    authors: <strong>Wei-Ting Tang</strong>, A. P. Vinod, F. Germain, Joel A. Paulson, C. R. Laughman, Ankush Chakrabarty
+    conference_short: E&B
+    conference: <strong>Energy & Buildings</strong>, 116207, 2025.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0378778825009375
+
+  - title: "CAGES: Cost-Aware Gradient Entropy Search for Efficient Local Multi-Fidelity Bayesian Optimization"
+    authors: <strong>Wei-Ting Tang</strong>, Joel A. Paulson
+    conference_short: CDC
+    conference: IEEE Conference on Decision and Control <strong>(CDC)</strong>, 1547–1552, 2024.
+    pdf: https://arxiv.org/pdf/2405.07760
+    notes: IEEE CSS TC Process Control Outstanding Student Paper Prize
