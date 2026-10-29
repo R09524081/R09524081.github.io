@@ -4,13 +4,9 @@ layout: homepage
 
 ## About Me
 
-I'm a 5th year Ph.D. Candidate in Chemical Engineering at the University of Wisconsin-Madison, advised by [Dr. Joel Paulson](https://cbe.osu.edu/people/paulson.82), and expect to graduate in Spring 2027.
+I'm a 5th year Ph.D. Candidate in Chemical Engineering at the University of Wisconsin-Madison, advised by [Dr. Joel Paulson](https://cbe.osu.edu/people/paulson.82). I develop sample-efficient methods for optimizing expensive black-box systems, spanning high-dimensional Bayesian optimization, Bayesian novelty search, and global optimization of Gaussian process models, with applications in process systems engineering.
 
-My research develops sample-efficient methods for optimizing expensive black-box systems. I work on Bayesian optimization in high dimensions (local, trust-region, and multi-fidelity methods), Bayesian novelty search for discovering diverse behaviors, and deterministic global optimization of Gaussian process models via specialized spatial branch-and-bound. I apply these tools to problems in process systems engineering, from chemical process flowsheet design to building control validation. My work has appeared at AISTATS, IEEE CDC, *Digital Discovery*, and *Energy & Buildings*.
-
-In 2025, I was a research intern in the Machine Learning, Optimization, and Statistics (MiLOS) group at Dow Chemical, where I applied constrained Bayesian optimization to high-dimensional chemical process flowsheet optimization. My work has been recognized with the IEEE CSS Technical Committee on Process Control Outstanding Student Paper Prize (2025), and selection as an AIChE CAST Division Plenary (2024) and CAST Director's Student Presentation Award Finalist (2026).
-
-Before Wisconsin, I received my B.S. (2020) and M.S. (2022) in Chemical Engineering at National Taiwan University, where I was advised by [Dr. Jeffrey Ward](https://che.ntu.edu.tw/che/en/jeffward.html) and worked on energy intensification of distillation processes.
+Previously, I was a research intern at Dow Chemical (2025) and received my B.S. and M.S. in Chemical Engineering from National Taiwan University, advised by [Dr. Jeffrey Ward](https://che.ntu.edu.tw/che/en/jeffward.html).
 
 ## Research Interests
 
