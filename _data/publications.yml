@@ -26,7 +26,7 @@ main:
     conference_short: arXiv
     conference: arXiv preprint, 2026.
     pdf: https://arxiv.org/abs/2605.00855
-    image: ./figures/PALM.png
+    image: ./figures/PALM-mean.mp4
 
   - title: "NeST-BO: Fast Local Bayesian Optimization via Newton-Step Targeting of Gradient and Hessian Information"
     authors: <strong>Wei-Ting Tang</strong>, Akshay Kudva, Joel A. Paulson

@@ -9,7 +9,11 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
+    {% if link.image contains ".mp4" %}
+    <a href="{{ link.image }}" target="_blank" rel="noopener"><video src="{{ link.image }}" class="teaser img-fluid z-depth-1" autoplay muted loop playsinline aria-label="{{ link.title }}"></video></a>
+    {% else %}
     <a href="{{ link.image }}" target="_blank" rel="noopener"><img src="{{ link.image | replace: './figures/', './figures/thumbs/' }}" onerror="this.onerror=null;this.src='{{ link.image }}'" class="teaser img-fluid z-depth-1" alt="{{ link.title }}" loading="lazy"></a>
+    {% endif %}
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
