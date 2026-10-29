@@ -19,7 +19,7 @@ main:
     conference_short: OPTIMAL
     conference: AISTATS 2026 Workshop <strong>(OPTIMAL)</strong>, 2026.
     pdf: https://arxiv.org/abs/2604.22967
-    image: ./figures/AdaScale-TuRBO.png
+    image: ./figures/AdaScale-TuRBO.mp4
 
   - title: "An Efficient Spatial Branch-and-Bound Algorithm for Global Optimization of Gaussian Process Posterior Mean Functions"
     authors: <strong>Wei-Ting Tang</strong>, Akshay Kudva, Calvin Tsay, Joel A. Paulson
