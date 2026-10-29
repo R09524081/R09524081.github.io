@@ -33,7 +33,7 @@ main:
     conference_short: AISTATS
     conference: International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2510.05516
-    image: ./figures/NeST-BO.png
+    image: ./figures/NeST-BO.mp4
 
   - title: "AI-Driven Scenario Discovery: Diffusion Models and Multi-Armed Bandits for Building Control Validation"
     authors: <strong>Wei-Ting Tang</strong>, A. P. Vinod, F. Germain, Joel A. Paulson, C. R. Laughman, Ankush Chakrabarty
