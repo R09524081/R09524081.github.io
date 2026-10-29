@@ -12,7 +12,7 @@ main:
     conference_short: DD
     conference: <strong>Digital Discovery</strong>, 2026.
     pdf: https://doi.org/10.1039/D6DD00123H
-    image: ./figures/BEACON.png
+    image: ./figures/BEACON.mp4
 
   - title: "Rethinking Trust Region Bayesian Optimization in High Dimensions"
     authors: <strong>Wei-Ting Tang</strong>, Joel A. Paulson
