@@ -16,3 +16,5 @@ Previously, I was a research intern at Dow Chemical (2025) and received my B.S. 
 - Process systems engineering
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
