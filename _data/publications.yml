@@ -1,14 +1,14 @@
 main:
 
   - title: "BEACON: a Bayesian optimization inspired strategy for efficient novelty search"
-    authors: <strong>Wei-Ting Tang</strong>, et al.  # TODO: fill in full author list
+    authors: <strong>Wei-Ting Tang</strong>, Ankush Chakrabarty, Joel A. Paulson
     conference_short: DD
     conference: <strong>Digital Discovery</strong>, 2026.
     pdf: https://pubs.rsc.org/en/content/articlelanding/2026/dd/d6dd00123h
     image: ./assets/img/BEACON.jpg
 
   - title: "NeST-BO: Fast Local Bayesian Optimization via Newton-Step Targeting of Gradient and Hessian Information"
-    authors: <strong>Wei-Ting Tang</strong>, et al.  # TODO: fill in full author list
+    authors: <strong>Wei-Ting Tang</strong>, Akshay Kudva, Joel A. Paulson
     conference_short: AISTATS
     conference: International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
     pdf: https://openreview.net/forum?id=1MHLQM0MKM
