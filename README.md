@@ -1,6 +1,10 @@
-# Academic Pages
+# R09524081.github.io
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+Personal homepage of Wei-Ting (Jonathan) Tang, live at <https://R09524081.github.io>.
 
-Jonathan's webpage.
+Built with the [Minimal Light](https://github.com/yaoyao-liu/minimal-light) Jekyll theme.
 
+- `index.md`: About, research interests, and news
+- `_data/publications.yml`: publication list
+- `_config.yml`: name, links, avatar, and site options
+- `assets/files/`: CV

@@ -1,0 +1,26 @@
+main:
+
+  - title: "BEACON: a Bayesian optimization inspired strategy for efficient novelty search"
+    authors: <strong>Wei-Ting Tang</strong>, et al.  # TODO: fill in full author list
+    conference_short: DD
+    conference: <strong>Digital Discovery</strong>, 2026.
+    pdf: https://pubs.rsc.org/en/content/articlelanding/2026/dd/d6dd00123h
+    image: ./assets/img/BEACON.jpg
+
+  - title: "NeST-BO: Fast Local Bayesian Optimization via Newton-Step Targeting of Gradient and Hessian Information"
+    authors: <strong>Wei-Ting Tang</strong>, et al.  # TODO: fill in full author list
+    conference_short: AISTATS
+    conference: International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
+    pdf: https://openreview.net/forum?id=1MHLQM0MKM
+
+  - title: "An Efficient Spatial Branch-and-Bound Algorithm for Global Optimization of Gaussian Process Posterior Mean Functions"
+    authors: <strong>Wei-Ting Tang</strong>, Akshay Kudva, Calvin Tsay, Joel A. Paulson
+    conference_short: arXiv
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/pdf/2605.00855
+
+  - title: "Rethinking Trust Region Bayesian Optimization in High Dimensions"
+    authors: <strong>Wei-Ting Tang</strong>, Joel A. Paulson
+    conference_short: OPTIMAL
+    conference: AISTATS 2026 Workshop <strong>(OPTIMAL)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2604.22967
