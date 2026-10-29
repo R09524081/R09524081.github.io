@@ -9,7 +9,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
-    <a href="{{ link.image }}" target="_blank" rel="noopener"><img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }}" loading="lazy"></a>
+    <a href="{{ link.image }}" target="_blank" rel="noopener"><img src="{{ link.image | replace: './figures/', './figures/thumbs/' }}" onerror="this.onerror=null;this.src='{{ link.image }}'" class="teaser img-fluid z-depth-1" alt="{{ link.title }}" loading="lazy"></a>
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
