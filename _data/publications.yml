@@ -5,7 +5,7 @@ main:
     conference_short: arXiv
     conference: arXiv preprint, 2026.
     pdf: https://arxiv.org/abs/2610.05780
-    image: ./figures/Iso-BO.png
+    image: ./figures/Iso-BO.mp4
 
   - title: "BEACON: a Bayesian optimization inspired strategy for efficient novelty search"
     authors: <strong>Wei-Ting Tang</strong>, Ankush Chakrabarty, Joel A. Paulson
