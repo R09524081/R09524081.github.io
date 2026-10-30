@@ -40,7 +40,7 @@ main:
     conference_short: E&B
     conference: <strong>Energy & Buildings</strong>, 116207, 2025.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0378778825009375
-    image: ./figures/Multi%20Arm.jpg
+    image: ./figures/Scenario-Discovery.mp4
 
   - title: "CAGES: Cost-Aware Gradient Entropy Search for Efficient Local Multi-Fidelity Bayesian Optimization"
     authors: <strong>Wei-Ting Tang</strong>, Joel A. Paulson
